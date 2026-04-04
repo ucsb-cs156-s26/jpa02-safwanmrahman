@@ -1,6 +1,6 @@
 # STARTER-jpa02
 
-* TODO: Change the title f this README 
+* TODO: Change the title of this README 
   in the text `# STARTER-jpa02` above
   to match the name of your repo, i. e., `jpa02-yourgithubid`, then delete
   this TODO item.
