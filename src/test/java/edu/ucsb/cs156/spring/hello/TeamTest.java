@@ -16,7 +16,7 @@ public class TeamTest {
 
     @Test
     public void getName_returns_correct_name() {
-       assert(team.getName().equals("test-team"));
+        assertEquals("Team(name=test-team, members=[])", team.toString());
     }
 
    
